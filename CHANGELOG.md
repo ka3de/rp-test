@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/ka3de/rp-test/compare/v1.0.1...v1.0.2) (2024-11-15)
+
+
+### Miscellaneous chores
+
+* Remove support for refactors in rp ([85316da](https://github.com/ka3de/rp-test/commit/85316da539f58f2e946757520faec8debe3ce3d4))
+
 ## [1.0.1](https://github.com/ka3de/rp-test/compare/v1.0.0...v1.0.1) (2024-11-15)
 
 
