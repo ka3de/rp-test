@@ -9,7 +9,8 @@
         { "type": "fix", "section": "Fixes" },
         { "type": "docs", "section": "Documentation" },
         { "type": "release", "section": "Release"},
-        { "type": "chore", "section": "Miscellaneous chores"}
+        { "type": "chore", "section": "Miscellaneous chores"},
+        { "type": "refactor", "section": "Code refactoring"}
       ]
     }
   },
