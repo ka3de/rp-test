@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.2.0](https://github.com/ka3de/rp-test/compare/v1.1.0...v1.2.0) (2024-12-16)
+
+
+### Features
+
+* Add newline ([cf5dd8a](https://github.com/ka3de/rp-test/commit/cf5dd8a5cc6496990f5a5345e58c6a0d2c7b1c9e))
+* Change guess sentence ([0db3447](https://github.com/ka3de/rp-test/commit/0db3447fa36bce7a6c178e8c74e2bd674fc51536))
+
+
+### Miscellaneous chores
+
+* Update rp config ([595517a](https://github.com/ka3de/rp-test/commit/595517ad6aa620a593cf719b3ba1b338d76d3a4c))
+
 ## [1.1.0](https://github.com/ka3de/rp-test/compare/v1.0.1...v1.1.0) (2024-12-16)
 
 
