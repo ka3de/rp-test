@@ -6,6 +6,7 @@
       "include-component-in-tag": false,
       "changelog-sections": [
         { "type": "feat", "section": "Features" },
+        { "type": "Feat", "section": "Features" },
         { "type": "fix", "section": "Fixes" },
         { "type": "docs", "section": "Documentation" },
         { "type": "release", "section": "Release"},
