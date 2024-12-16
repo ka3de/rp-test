@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/ka3de/rp-test/compare/v1.2.0...v1.3.0) (2024-12-16)
+
+
+### Features
+
+* Readd exclamation ([395fbce](https://github.com/ka3de/rp-test/commit/395fbce97fab74891ec180b8a55c8274e464cb5b))
+
 ## [1.2.0](https://github.com/ka3de/rp-test/compare/v1.1.0...v1.2.0) (2024-12-16)
 
 
