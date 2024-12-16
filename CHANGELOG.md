@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.0](https://github.com/ka3de/rp-test/compare/v1.0.1...v1.1.0) (2024-12-16)
+
+
+### Features
+
+* Add exclamation ([e67528d](https://github.com/ka3de/rp-test/commit/e67528df5ca352c13aac9e5ef1bbba33c238f6c3))
+* Void feat commit ([638a4ee](https://github.com/ka3de/rp-test/commit/638a4eeb7b5c691f4fe22155a34dcce5235e2596))
+
+
+### Miscellaneous chores
+
+* Remove support for refactors in rp ([85316da](https://github.com/ka3de/rp-test/commit/85316da539f58f2e946757520faec8debe3ce3d4))
+
 ## [1.0.1](https://github.com/ka3de/rp-test/compare/v1.0.0...v1.0.1) (2024-11-15)
 
 
