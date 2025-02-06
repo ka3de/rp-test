@@ -2,6 +2,8 @@
 
 ## [1.3.0](https://github.com/ka3de/rp-test/compare/v1.2.0...v1.3.0) (2024-12-16)
 
+### This is an extra section
+Test.
 
 ### Features
 
